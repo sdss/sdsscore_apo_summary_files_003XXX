@@ -12,7 +12,7 @@ fps_calibrations_version APO.2021.12.25+960cb05
 jaeger_version 0.13.2-alpha.0
 coordio_version 1.2.1-alpha.2
 kaiju_version 1.2.2-alpha.1
-design_id 26127
+design_id 26129
 field_id 16163
 focal_scale 0.9998
 instruments BOSS APOGEE
