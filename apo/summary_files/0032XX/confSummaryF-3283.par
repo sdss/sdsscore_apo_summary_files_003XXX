@@ -1,10 +1,10 @@
 #%yanny
 #
-# confSummaryF-3243.par
+# confSummaryF-3283.par
 #
 # Created by pydl.pydlutils.yanny.yanny
 #
-# 2022-02-10 06:20:46 UTC
+# 2022-04-11 22:06:23 UTC
 #
 configuration_id 3283
 robostrategy_run manual
@@ -29,6 +29,7 @@ parent_configuration -999
 dither_radius -999.0
 cloned_from -999.0
 fvc_rms 0.01125
+fvc_image_path NA
 
 typedef enum {
     BOSS,
